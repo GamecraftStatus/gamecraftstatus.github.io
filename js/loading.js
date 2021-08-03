@@ -1,5 +1,5 @@
 function startLoading(){
-document.getElementsByClassName("ltext").html = "Loading Status..."
+document.getElementsByClassName("ltext").innerHtml = "Loading Status..."
 
 }
  
